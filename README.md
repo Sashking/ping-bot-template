@@ -19,3 +19,8 @@
 
 ## Is it possible to run multiple bots?
 - Yes it is. Join the discord server (https://discord.gg/pQVSqnTdZm) to get more info about this part
+
+## Tips on how to run the bot consistently
+- The more channels and categories you create - the smaller the cooldown can be
+- Don't go nuts with the speeds, it's better to create a second bot rather then maxing out the speed on the first one
+- If you plan on running the bots on your own PC, make sure you aren't even close to the rate limit (otherwise Discord might temporarily ban your IP for 0.5-2 hours)
