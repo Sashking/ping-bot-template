@@ -9,6 +9,9 @@
 ## How can I configure the bot?
 1. In VS Code - open the `statics.js` file
 2. Change any values to fit your server
+3. Rename `example.env` to `.env`
+4. Open the `.env` file
+5. Put your discord bot token (https://discord.com/developers/applications) in there
 
 ## How do I start the bot?
 1. Open a terminal in VS Code by pressing Ctrl + Shift + ` (or simply in the menu bar on top: Terminal > New Terminal)
