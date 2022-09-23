@@ -10,5 +10,9 @@
 1. In VS Code - open the `statics.js` file
 2. Change any values to fit your server
 
+## How do I start the bot?
+1. Open a terminal in VS Code by pressing Ctrl + Shift + ` (or simply in the menu bar on top: Terminal > New Terminal)
+2. Type `npm run start` and hit Enter
+
 ## Is it possible to run multiple bots?
 - Yes it is. Join the discord server (https://discord.gg/pQVSqnTdZm) to get more info about this part
