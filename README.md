@@ -2,7 +2,7 @@
 
 
 ## How do I install the bot?
-1. Download the code from github
+1. Download the code from this github repo
 2. Download and install Node.js from https://nodejs.org/
 3. Open the code in an editor like Visual Studio Code https://code.visualstudio.com/
 
